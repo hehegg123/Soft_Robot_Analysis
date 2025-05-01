@@ -1,7 +1,4 @@
-Participant ID,"Teaching Method
-TM1 or TM2","Order of Tasks
-Easy -> Hard or
-Hard -> Easy",Round,Target,Completion Time (s),Successful?
+Participant ID,Teaching Method,Order of Tasks,Round,Target,Completion Time (s),Successful?
 1,1,EH,1,A,3.03,Y
 1,1,EH,2,A,1.76,Y
 1,1,EH,3,A,1.4,Y
